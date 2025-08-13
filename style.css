@@ -1,3 +1,20 @@
 body{
-    background-color: black;
+    font-family: Verdana;
+    margin: 20px;
 }
+.pic {
+  width: 141px;
+}
+
+.container {
+  display: flex;
+  margin: 0 auto;
+  border-bottom: 6px solid #d8cefe;
+  width: 450px;
+  padding: 20px;
+  color: #2b2839;
+  background-color: #ddebf8;
+  text-align: center;
+  justify-content: space-around;
+}
+
